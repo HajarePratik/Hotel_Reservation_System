@@ -7,7 +7,6 @@ public class Hotel {
 	
 	public Hotel(String hotelname, int rateforregular) 
 	{
-		super();
 		this.hotelname = hotelname;
 		this.rateforregular = rateforregular;
 	}
